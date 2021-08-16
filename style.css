@@ -15,7 +15,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     margin: 40px;
-    margin-left: 120px;
     
 }
 .abc p,li{
@@ -104,5 +103,5 @@ body{
     transform: scale(1.03);
 }
 .ad{
-    margin-left: 1400px;
+    margin-left: 1250px;
 }

@@ -1,0 +1,36 @@
+*{
+    color: rgb(233, 57, 57);
+    text-align: center;
+    background-color: #d4b697;
+}
+h2{
+    text-align: left;
+}
+.a {
+    font-family: 'Georgia';
+    border: solid;
+}
+.b{
+    display: flex;
+    flex-direction: column;
+}
+h4{
+    padding-left: 1050px;
+}
+a:link{
+    color: darkblue;
+}
+a:visited{
+    color: rgb(146, 7, 146);
+}
+.d p{
+    opacity: 0;
+    position: relative;
+    transform: translate (-50%,-50%);
+}
+.d:hover p{
+    opacity: 1;
+}
+.d:hover img{
+    opacity: 0.6;
+}
